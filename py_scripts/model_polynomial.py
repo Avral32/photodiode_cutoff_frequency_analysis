@@ -1,3 +1,5 @@
+# In this model, we fit the reponse of photodiodes using the general transfer function of filter with a polynomial function
+
 import os
 import re
 import sys
