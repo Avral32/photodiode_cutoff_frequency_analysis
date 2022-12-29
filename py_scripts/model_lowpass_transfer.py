@@ -1,4 +1,5 @@
-# fit the response funtion of photodiodes using low pass filter transfer function
+# Fit the response funtion of photodiodes using second order low pass transfer funtion under the assuption that the two low pass filters
+# are decoupled each other, os we can separate the second order function into two separate first order functions.
 
 import os
 import re
