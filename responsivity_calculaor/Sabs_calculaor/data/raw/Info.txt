@@ -1,0 +1,17 @@
+https://www.pvlighthouse.com.au/refractive-index-library
+Daten gezogen am 24.03.2020
+
+Si -----------------------------------------------------------------------------------------------
+	Si (Crystalline, 300 K [Gre08]).csv
+	Reference Cite this reference when publishing results that incorporate the data below:
+	[Gre08] Martin A. Green, 'Self-consistent optical parameters of intrinsic silicon at 300 K including temperature coefficients', Solar Energy Materials and Solar Cells 92(11), pp.1305-1310, (2008)
+
+SiO2 ---------------------------------------------------------------------------------------------
+	SiO2 [Rao19].csv
+	Reference Cite this reference when publishing results that incorporate the data below:
+	[Rao19] E. Raoult, R. Bodeux, S. Jutteau, S. Rives, A. Yaiche, D. Coutancier, J. Rousset and S. Collin, 'Optical characterizations and modelling of semitransparent perovskite solar cells for tandem applications', in 36th EU PVSEC, pp.757-763, (2019)
+
+Si3N4 --------------------------------------------------------------------------------------------
+	Si3N4 (LPCVD [McI14]).csv
+	Reference Cite this reference when publishing results that incorporate the data below:
+	[McI14] K.R. McIntosh, T.C. Kho, K.C. Fong, S.C. Baker-Finch, Y. Wan, N. Zin, E.T. Franklin, D. Wang, M.D. Abbott, N.E. Grant, E. Wang, M. Stocks and A.W. Blakers, 'Quantifying the optical losses in back-contact solar cells', IEEE, pp.0115-0123, (2014)
